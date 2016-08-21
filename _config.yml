@@ -1,0 +1,14 @@
+layout_spectrum: 0.8904129920993
+typography_spectrum: 0.2556404930073768
+color:
+  brandStrength: 0.26276678359135985
+  lightness: 0.5672845041844994
+  saturation: 0.05859315884299576
+  rhythmicContrast: 0.3262643269263208
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: My View
